@@ -1,4 +1,4 @@
-package io.wkrzywiec.medium.spock;
+package io.wkrzywiec.medium.spock.joke;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

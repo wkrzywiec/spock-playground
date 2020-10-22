@@ -1,4 +1,4 @@
-package io.wkrzywiec.medium.spock;
+package io.wkrzywiec.medium.spock.joke;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
